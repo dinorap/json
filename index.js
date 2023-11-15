@@ -2493,7 +2493,243 @@ const topic2 = {
 app.get("/api/topic2", (req, res) => {
   res.json(topic2);
 });
-
+const listen = [
+  {
+    id: 265,
+    word: "arm",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994176/vocab/265_arm.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=265&language=US",
+  },
+  {
+    id: 266,
+    word: "eye",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994188/vocab/266_eye.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=266&language=US",
+  },
+  {
+    id: 267,
+    word: "eyebrow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994190/vocab/267_eyebrow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=267&language=US",
+  },
+  {
+    id: 269,
+    word: "leg",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994192/vocab/269_leg.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=269&language=US",
+  },
+  {
+    id: 271,
+    word: "thumb",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994195/vocab/271_thumb.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=271&language=US",
+  },
+  {
+    id: 272,
+    word: "elbow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994196/vocab/272_elbow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=272&language=US",
+  },
+  {
+    id: 274,
+    word: "finger",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994198/vocab/274_finger.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=274&language=US",
+  },
+  {
+    id: 275,
+    word: "foot",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994199/vocab/275_foot.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=275&language=US",
+  },
+  {
+    id: 276,
+    word: "ankle",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994200/vocab/276_ankle.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=276&language=US",
+  },
+  {
+    id: 278,
+    word: "hair",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994203/vocab/278_hair.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=278&language=US",
+  },
+  {
+    id: 279,
+    word: "neck",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994205/vocab/279_neck.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=279&language=US",
+  },
+  {
+    id: 280,
+    word: "hand",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994206/vocab/280_hand.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=280&language=US",
+  },
+  {
+    id: 281,
+    word: "wrist",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994207/vocab/281_wrist.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=281&language=US",
+  },
+  {
+    id: 282,
+    word: "hip",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994209/vocab/282_hip.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=282&language=US",
+  },
+  {
+    id: 283,
+    word: "chin",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994211/vocab/283_chin.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=283&language=US",
+  },
+  {
+    id: 284,
+    word: "knee",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994212/vocab/284_knee.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=284&language=US",
+  },
+  {
+    id: 285,
+    word: "head",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994214/vocab/285_head.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=285&language=US",
+  },
+  {
+    id: 286,
+    word: "lip",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994215/vocab/286_lip.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=286&language=US",
+  },
+  {
+    id: 287,
+    word: "mouth",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994217/vocab/287_mouth.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=287&language=US",
+  },
+  {
+    id: 288,
+    word: "nose",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994218/vocab/288_nose.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=288&language=US",
+  },
+  {
+    id: 291,
+    word: "thigh",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994234/vocab/291_thigh.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=291&language=US",
+  },
+  {
+    id: 292,
+    word: "ear",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994236/vocab/292_ear.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=292&language=US",
+  },
+  {
+    id: 295,
+    word: "back",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994237/vocab/295_back.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=295&language=US",
+  },
+  {
+    id: 296,
+    word: "underarm",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994239/vocab/296_underarm.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=296&language=US",
+  },
+  {
+    id: 299,
+    word: "shoulder",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994241/vocab/299_shoulder.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=299&language=US",
+  },
+  {
+    id: 300,
+    word: "forehead",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994242/vocab/300_forehead.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=300&language=US",
+  },
+  {
+    id: 301,
+    word: "waist",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994244/vocab/301_waist.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=301&language=US",
+  },
+  {
+    id: 303,
+    word: "cheek",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994246/vocab/303_cheek.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=303&language=US",
+  },
+  {
+    id: 306,
+    word: "toe",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994250/vocab/306_toe.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=306&language=US",
+  },
+];
+app.get("/api/listen", (req, res) => {
+  res.json(listen);
+});
 // Lắng nghe các yêu cầu tới cổng đã chọn
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);

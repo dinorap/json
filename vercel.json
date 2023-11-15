@@ -9,6 +9,8 @@
   "routes": [
     { "src": "/api/listtopic", "dest": "index.js" },
     { "src": "/api/topic2", "dest": "index.js" },
-    { "src": "/api/topic1", "dest": "index.js" }
+    { "src": "/api/topic1", "dest": "index.js" },
+    { "src": "/api/listen", "dest": "index.js" }
   ]
 }
+
