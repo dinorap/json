@@ -1,0 +1,176 @@
+[
+  {
+    "id": 23,
+    "word": "lake",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993820/vocab/23_lake.gif",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=23&language=US"
+  },
+  {
+    "id": 9664,
+    "word": "atmosphere",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994536/vocab/9664_atmosphere.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9664&language=US"
+  },
+  {
+    "id": 10505,
+    "word": "avalanche",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994557/vocab/10505_avalanche.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=10505&language=US"
+  },
+  {
+    "id": 12609,
+    "word": "bay",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994663/vocab/12609_bay.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=12609&language=US"
+  },
+  {
+    "id": 12680,
+    "word": "beach",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994665/vocab/12680_beach.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=12680&language=US"
+  },
+  {
+    "id": 20316,
+    "word": "canal",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994993/vocab/20316_canal.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=20316&language=US"
+  },
+  {
+    "id": 20640,
+    "word": "canyon",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995004/vocab/20640_canyon.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=20640&language=US"
+  },
+  {
+    "id": 26388,
+    "word": "cliff",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995202/vocab/26388_cliff.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26388&language=US"
+  },
+  {
+    "id": 26939,
+    "word": "coal",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995225/vocab/26939_coal.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26939&language=US"
+  },
+  {
+    "id": 26979,
+    "word": "coast",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995236/vocab/26979_coast.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26979&language=US"
+  },
+  {
+    "id": 30269,
+    "word": "coppice",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995376/vocab/30269_coppice.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=30269&language=US"
+  },
+  {
+    "id": 30282,
+    "word": "copse",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995382/vocab/30282_copse.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=30282&language=US"
+  },
+  {
+    "id": 31696,
+    "word": "crater",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995431/vocab/31696_crater.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=31696&language=US"
+  },
+  {
+    "id": 36080,
+    "word": "desert",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995633/vocab/36080_desert.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=36080&language=US"
+  },
+  {
+    "id": 40741,
+    "word": "earthquake",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995756/vocab/40741_earthquake.gif",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=40741&language=US"
+  },
+  {
+    "id": 48627,
+    "word": "field",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995921/vocab/48627_field.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=48627&language=US"
+  },
+  {
+    "id": 50950,
+    "word": "forest",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996001/vocab/50950_forest.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=50950&language=US"
+  },
+  {
+    "id": 51295,
+    "word": "fountain",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996004/vocab/51295_fountain.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=51295&language=US"
+  },
+  {
+    "id": 58151,
+    "word": "geyser",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996081/vocab/58151_geyser.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=58151&language=US"
+  },
+  {
+    "id": 58577,
+    "word": "glacier",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996092/vocab/58577_glacier.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=58577&language=US"
+  },
+  {
+    "id": 64705,
+    "word": "highland",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996300/vocab/64705_highland.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=64705&language=US"
+  },
+  {
+    "id": 64753,
+    "word": "hill",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996302/vocab/64753_hill.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=64753&language=US"
+  },
+  {
+    "id": 71670,
+    "word": "island",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996443/vocab/71670_island.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=71670&language=US"
+  },
+  {
+    "id": 73586,
+    "word": "jungle",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996534/vocab/73586_jungle.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=73586&language=US"
+  },
+  {
+    "id": 75914,
+    "word": "landslide",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996591/vocab/75914_landslide.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=75914&language=US"
+  },
+  {
+    "id": 76488,
+    "word": "lava",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996613/vocab/76488_lava.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=76488&language=US"
+  },
+  {
+    "id": 83474,
+    "word": "meadow",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996775/vocab/83474_meadow.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=83474&language=US"
+  },
+  {
+    "id": 87075,
+    "word": "moor",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996841/vocab/87075_moor.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=87075&language=US"
+  },
+  {
+    "id": 87596,
+    "word": "mountain",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996855/vocab/87596_mountain.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=87596&language=US"
+  }
+]

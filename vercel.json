@@ -10,7 +10,12 @@
     { "src": "/api/listtopic", "dest": "index.js" },
     { "src": "/api/topic2", "dest": "index.js" },
     { "src": "/api/topic1", "dest": "index.js" },
-    { "src": "/api/listen", "dest": "index.js" }
+    { "src": "/api/listen", "dest": "index.js" },
+    { "src": "/api/listen1", "dest": "index.js" },
+    { "src": "/api/listen2", "dest": "index.js" },
+    { "src": "/api/listen3", "dest": "index.js" },
+    { "src": "/api/listen4", "dest": "index.js" },
+    { "src": "/api/listen5", "dest": "index.js" }
   ]
 }
 

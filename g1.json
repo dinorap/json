@@ -1,0 +1,140 @@
+[
+  {
+    "id": 28,
+    "word": "moon",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993830/vocab/28_moon.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=28&language=US"
+  },
+  {
+    "id": 35,
+    "word": "sky",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993843/vocab/35_sky.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=35&language=US"
+  },
+  {
+    "id": 36,
+    "word": "star",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993845/vocab/36_star.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=36&language=US"
+  },
+  {
+    "id": 38,
+    "word": "sun",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993847/vocab/38_sun.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=38&language=US"
+  },
+  {
+    "id": 9406,
+    "word": "astronaut",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994520/vocab/9406_astronaut.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9406&language=US"
+  },
+  {
+    "id": 9413,
+    "word": "astronomer",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994526/vocab/9413_astronomer.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9413&language=US"
+  },
+  {
+    "id": 28030,
+    "word": "comet",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995261/vocab/28030_comet.gif",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=28030&language=US"
+  },
+  {
+    "id": 29606,
+    "word": "constellation",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995320/vocab/29606_constellation.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=29606&language=US"
+  },
+  {
+    "id": 40707,
+    "word": "earth",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995754/vocab/40707_earth.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=40707&language=US"
+  },
+  {
+    "id": 52977,
+    "word": "galaxy",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996041/vocab/52977_galaxy.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=52977&language=US"
+  },
+  {
+    "id": 73649,
+    "word": "jupiter",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996547/vocab/73649_jupiter.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 82697,
+    "word": "mars",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996768/vocab/82697_mars.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 84410,
+    "word": "mercury",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996802/vocab/84410_mercury.gif",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=84410&language=US"
+  },
+  {
+    "id": 90041,
+    "word": "neptune",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996913/vocab/90041_neptune.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 92616,
+    "word": "observatory",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996969/vocab/92616_observatory.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=92616&language=US"
+  },
+  {
+    "id": 94279,
+    "word": "orbit",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684996996/vocab/94279_orbit.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=94279&language=US"
+  },
+  {
+    "id": 102501,
+    "word": "pluto",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684997199/vocab/102501_pluto.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 115864,
+    "word": "saturn",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684997496/vocab/115864_saturn.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 124019,
+    "word": "space",
+    "imageUrl": null,
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=124019&language=US"
+  },
+  {
+    "id": 132011,
+    "word": "telescope",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684997906/vocab/132011_telescope.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=132011&language=US"
+  },
+  {
+    "id": 139631,
+    "word": "universe",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684998139/vocab/139631_universe.gif",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=139631&language=US"
+  },
+  {
+    "id": 140952,
+    "word": "uranus",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684998148/vocab/140952_uranus.jpg",
+    "soundUS": null
+  },
+  {
+    "id": 142216,
+    "word": "venus",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684998179/vocab/142216_venus.jpg",
+    "soundUS": null
+  }
+]

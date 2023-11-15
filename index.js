@@ -2730,6 +2730,1094 @@ const listen = [
 app.get("/api/listen", (req, res) => {
   res.json(listen);
 });
+const listen1 = [
+  {
+    id: 19,
+    word: "gold",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993801/vocab/19_gold.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=19&language=US",
+  },
+  {
+    id: 91,
+    word: "color",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993965/vocab/91_color.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=91&language=US",
+  },
+  {
+    id: 112,
+    word: "red",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993997/vocab/112_red.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=112&language=US",
+  },
+  {
+    id: 113,
+    word: "blue",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993999/vocab/113_blue.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=113&language=US",
+  },
+  {
+    id: 114,
+    word: "yellow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994000/vocab/114_yellow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=114&language=US",
+  },
+  {
+    id: 115,
+    word: "green",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994012/vocab/115_green.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=115&language=US",
+  },
+  {
+    id: 116,
+    word: "pink",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994013/vocab/116_pink.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=116&language=US",
+  },
+  {
+    id: 117,
+    word: "orange",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994015/vocab/117_orange.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=117&language=US",
+  },
+  {
+    id: 118,
+    word: "purple",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994016/vocab/118_purple.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=118&language=US",
+  },
+  {
+    id: 119,
+    word: "black",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994017/vocab/119_black.png",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=119&language=US",
+  },
+  {
+    id: 120,
+    word: "white",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994018/vocab/120_white.png",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=120&language=US",
+  },
+  {
+    id: 121,
+    word: "brown",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994020/vocab/121_brown.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=121&language=US",
+  },
+  {
+    id: 197,
+    word: "gray",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994118/vocab/197_gray.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=197&language=US",
+  },
+  {
+    id: 13237,
+    word: "beige",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994706/vocab/13237_beige.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=13237&language=US",
+  },
+  {
+    id: 33285,
+    word: "cyan",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995512/vocab/33285_cyan.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=33285&language=US",
+  },
+  {
+    id: 40256,
+    word: "dun",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995737/vocab/40256_dun.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=40256&language=US",
+  },
+  {
+    id: 41104,
+    word: "ecru",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995764/vocab/41104_ecru.png",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=41104&language=US",
+  },
+  {
+    id: 60624,
+    word: "grey",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996160/vocab/60624_grey.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=60624&language=US",
+  },
+  {
+    id: 69334,
+    word: "indigo",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996398/vocab/69334_indigo.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=69334&language=US",
+  },
+  {
+    id: 71896,
+    word: "ivory",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996447/vocab/71896_ivory.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=71896&language=US",
+  },
+  {
+    id: 72100,
+    word: "jade",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996507/vocab/72100_jade.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=72100&language=US",
+  },
+  {
+    id: 76506,
+    word: "lavender",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996616/vocab/76506_lavender.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=76506&language=US",
+  },
+  {
+    id: 89575,
+    word: "navy",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996901/vocab/89575_navy.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=89575&language=US",
+  },
+  {
+    id: 93433,
+    word: "olive",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996990/vocab/93433_olive.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=93433&language=US",
+  },
+  {
+    id: 114008,
+    word: "ruby",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997439/vocab/114008_ruby.png",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=114008&language=US",
+  },
+  {
+    id: 114358,
+    word: "rust",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997451/vocab/114358_rust.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=114358&language=US",
+  },
+  {
+    id: 115347,
+    word: "sand",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997484/vocab/115347_sand.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=115347&language=US",
+  },
+  {
+    id: 120730,
+    word: "silver",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997608/vocab/120730_silver.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=120730&language=US",
+  },
+  {
+    id: 131117,
+    word: "tan",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997886/vocab/131117_tan.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=131117&language=US",
+  },
+];
+app.get("/api/listen1", (req, res) => {
+  res.json(listen1);
+});
+const listen2 = [
+  {
+    id: 95,
+    word: "hot",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993972/vocab/95_hot.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=95&language=US",
+  },
+  {
+    id: 96,
+    word: "cold",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993974/vocab/96_cold.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=96&language=US",
+  },
+  {
+    id: 107,
+    word: "wet",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993990/vocab/107_wet.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=107&language=US",
+  },
+  {
+    id: 126,
+    word: "rain",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994026/vocab/126_rain.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=126&language=US",
+  },
+  {
+    id: 309,
+    word: "sunshine",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994253/vocab/309_sunshine.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=309&language=US",
+  },
+  {
+    id: 311,
+    word: "snow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994255/vocab/311_snow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=311&language=US",
+  },
+  {
+    id: 312,
+    word: "hail",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994256/vocab/312_hail.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=312&language=US",
+  },
+  {
+    id: 315,
+    word: "shower",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994260/vocab/315_shower.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=315&language=US",
+  },
+  {
+    id: 318,
+    word: "cloud",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994261/vocab/318_cloud.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=318&language=US",
+  },
+  {
+    id: 319,
+    word: "rainbow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994263/vocab/319_rainbow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=319&language=US",
+  },
+  {
+    id: 320,
+    word: "wind",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994270/vocab/320_wind.gif",
+    soundUS: null,
+  },
+  {
+    id: 321,
+    word: "breeze",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994284/vocab/321_breeze.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=321&language=US",
+  },
+  {
+    id: 322,
+    word: "thunder",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994287/vocab/322_thunder.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=322&language=US",
+  },
+  {
+    id: 324,
+    word: "storm",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994292/vocab/324_storm.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=324&language=US",
+  },
+  {
+    id: 326,
+    word: "gale",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994296/vocab/326_gale.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=326&language=US",
+  },
+  {
+    id: 327,
+    word: "tornado",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994298/vocab/327_tornado.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=327&language=US",
+  },
+  {
+    id: 329,
+    word: "flood",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994301/vocab/329_flood.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=329&language=US",
+  },
+  {
+    id: 332,
+    word: "drought",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994306/vocab/332_drought.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=332&language=US",
+  },
+  {
+    id: 333,
+    word: "windy",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994308/vocab/333_windy.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=333&language=US",
+  },
+  {
+    id: 334,
+    word: "cloudy",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994310/vocab/334_cloudy.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=334&language=US",
+  },
+  {
+    id: 336,
+    word: "misty",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994314/vocab/336_misty.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=336&language=US",
+  },
+  {
+    id: 337,
+    word: "icy",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994316/vocab/337_icy.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=337&language=US",
+  },
+  {
+    id: 340,
+    word: "dry",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994320/vocab/340_dry.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=340&language=US",
+  },
+  {
+    id: 345,
+    word: "sunny",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994325/vocab/345_sunny.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=345&language=US",
+  },
+  {
+    id: 144027,
+    word: "warm",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684998239/vocab/144027_warm.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=144027&language=US",
+  },
+  {
+    id: 146281,
+    word: "windless",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684998282/vocab/146281_windless.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=146281&language=US",
+  },
+];
+app.get("/api/listen2", (req, res) => {
+  res.json(listen2);
+});
+const listen3 = [
+  {
+    id: 28,
+    word: "moon",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993830/vocab/28_moon.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=28&language=US",
+  },
+  {
+    id: 35,
+    word: "sky",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993843/vocab/35_sky.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=35&language=US",
+  },
+  {
+    id: 36,
+    word: "star",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993845/vocab/36_star.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=36&language=US",
+  },
+  {
+    id: 38,
+    word: "sun",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993847/vocab/38_sun.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=38&language=US",
+  },
+  {
+    id: 9406,
+    word: "astronaut",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994520/vocab/9406_astronaut.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9406&language=US",
+  },
+  {
+    id: 9413,
+    word: "astronomer",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994526/vocab/9413_astronomer.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9413&language=US",
+  },
+  {
+    id: 28030,
+    word: "comet",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995261/vocab/28030_comet.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=28030&language=US",
+  },
+  {
+    id: 29606,
+    word: "constellation",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995320/vocab/29606_constellation.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=29606&language=US",
+  },
+  {
+    id: 40707,
+    word: "earth",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995754/vocab/40707_earth.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=40707&language=US",
+  },
+  {
+    id: 52977,
+    word: "galaxy",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996041/vocab/52977_galaxy.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=52977&language=US",
+  },
+  {
+    id: 73649,
+    word: "jupiter",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996547/vocab/73649_jupiter.jpg",
+    soundUS: null,
+  },
+  {
+    id: 82697,
+    word: "mars",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996768/vocab/82697_mars.jpg",
+    soundUS: null,
+  },
+  {
+    id: 84410,
+    word: "mercury",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996802/vocab/84410_mercury.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=84410&language=US",
+  },
+  {
+    id: 90041,
+    word: "neptune",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996913/vocab/90041_neptune.jpg",
+    soundUS: null,
+  },
+  {
+    id: 92616,
+    word: "observatory",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996969/vocab/92616_observatory.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=92616&language=US",
+  },
+  {
+    id: 94279,
+    word: "orbit",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996996/vocab/94279_orbit.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=94279&language=US",
+  },
+  {
+    id: 102501,
+    word: "pluto",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997199/vocab/102501_pluto.jpg",
+    soundUS: null,
+  },
+  {
+    id: 115864,
+    word: "saturn",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997496/vocab/115864_saturn.jpg",
+    soundUS: null,
+  },
+  {
+    id: 124019,
+    word: "space",
+    imageUrl: null,
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=124019&language=US",
+  },
+  {
+    id: 132011,
+    word: "telescope",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684997906/vocab/132011_telescope.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=132011&language=US",
+  },
+  {
+    id: 139631,
+    word: "universe",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684998139/vocab/139631_universe.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=139631&language=US",
+  },
+  {
+    id: 140952,
+    word: "uranus",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684998148/vocab/140952_uranus.jpg",
+    soundUS: null,
+  },
+  {
+    id: 142216,
+    word: "venus",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684998179/vocab/142216_venus.jpg",
+    soundUS: null,
+  },
+];
+app.get("/api/listen3", (req, res) => {
+  res.json(listen3);
+});
+const listen4 = [
+  {
+    id: 23,
+    word: "lake",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993820/vocab/23_lake.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=23&language=US",
+  },
+  {
+    id: 9664,
+    word: "atmosphere",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994536/vocab/9664_atmosphere.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9664&language=US",
+  },
+  {
+    id: 10505,
+    word: "avalanche",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994557/vocab/10505_avalanche.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=10505&language=US",
+  },
+  {
+    id: 12609,
+    word: "bay",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994663/vocab/12609_bay.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=12609&language=US",
+  },
+  {
+    id: 12680,
+    word: "beach",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994665/vocab/12680_beach.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=12680&language=US",
+  },
+  {
+    id: 20316,
+    word: "canal",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994993/vocab/20316_canal.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=20316&language=US",
+  },
+  {
+    id: 20640,
+    word: "canyon",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995004/vocab/20640_canyon.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=20640&language=US",
+  },
+  {
+    id: 26388,
+    word: "cliff",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995202/vocab/26388_cliff.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26388&language=US",
+  },
+  {
+    id: 26939,
+    word: "coal",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995225/vocab/26939_coal.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26939&language=US",
+  },
+  {
+    id: 26979,
+    word: "coast",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995236/vocab/26979_coast.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=26979&language=US",
+  },
+  {
+    id: 30269,
+    word: "coppice",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995376/vocab/30269_coppice.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=30269&language=US",
+  },
+  {
+    id: 30282,
+    word: "copse",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995382/vocab/30282_copse.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=30282&language=US",
+  },
+  {
+    id: 31696,
+    word: "crater",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995431/vocab/31696_crater.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=31696&language=US",
+  },
+  {
+    id: 36080,
+    word: "desert",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995633/vocab/36080_desert.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=36080&language=US",
+  },
+  {
+    id: 40741,
+    word: "earthquake",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995756/vocab/40741_earthquake.gif",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=40741&language=US",
+  },
+  {
+    id: 48627,
+    word: "field",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995921/vocab/48627_field.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=48627&language=US",
+  },
+  {
+    id: 50950,
+    word: "forest",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996001/vocab/50950_forest.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=50950&language=US",
+  },
+  {
+    id: 51295,
+    word: "fountain",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996004/vocab/51295_fountain.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=51295&language=US",
+  },
+  {
+    id: 58151,
+    word: "geyser",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996081/vocab/58151_geyser.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=58151&language=US",
+  },
+  {
+    id: 58577,
+    word: "glacier",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996092/vocab/58577_glacier.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=58577&language=US",
+  },
+  {
+    id: 64705,
+    word: "highland",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996300/vocab/64705_highland.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=64705&language=US",
+  },
+  {
+    id: 64753,
+    word: "hill",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996302/vocab/64753_hill.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=64753&language=US",
+  },
+  {
+    id: 71670,
+    word: "island",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996443/vocab/71670_island.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=71670&language=US",
+  },
+  {
+    id: 73586,
+    word: "jungle",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996534/vocab/73586_jungle.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=73586&language=US",
+  },
+  {
+    id: 75914,
+    word: "landslide",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996591/vocab/75914_landslide.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=75914&language=US",
+  },
+  {
+    id: 76488,
+    word: "lava",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996613/vocab/76488_lava.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=76488&language=US",
+  },
+  {
+    id: 83474,
+    word: "meadow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996775/vocab/83474_meadow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=83474&language=US",
+  },
+  {
+    id: 87075,
+    word: "moor",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996841/vocab/87075_moor.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=87075&language=US",
+  },
+  {
+    id: 87596,
+    word: "mountain",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684996855/vocab/87596_mountain.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=87596&language=US",
+  },
+];
+app.get("/api/listen4", (req, res) => {
+  res.json(listen4);
+});
+const listen5 = [
+  {
+    id: 1,
+    word: "ant",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993766/vocab/1_ant.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=1&language=US",
+  },
+  {
+    id: 4,
+    word: "bear",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993772/vocab/4_bear.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=4&language=US",
+  },
+  {
+    id: 9,
+    word: "cat",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993785/vocab/9_cat.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9&language=US",
+  },
+  {
+    id: 10,
+    word: "cow",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993787/vocab/10_cow.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=10&language=US",
+  },
+  {
+    id: 13,
+    word: "dog",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993792/vocab/13_dog.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=13&language=US",
+  },
+  {
+    id: 25,
+    word: "lion",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993824/vocab/25_lion.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=25&language=US",
+  },
+  {
+    id: 43,
+    word: "worm",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684993868/vocab/43_worm.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=43&language=US",
+  },
+  {
+    id: 172,
+    word: "horse",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994099/vocab/172_horse.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=172&language=US",
+  },
+  {
+    id: 173,
+    word: "bunny",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994100/vocab/173_bunny.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=173&language=US",
+  },
+  {
+    id: 175,
+    word: "pig",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994102/vocab/175_pig.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=175&language=US",
+  },
+  {
+    id: 177,
+    word: "elephant",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994104/vocab/177_elephant.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=177&language=US",
+  },
+  {
+    id: 178,
+    word: "giraffe",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994106/vocab/178_giraffe.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=178&language=US",
+  },
+  {
+    id: 179,
+    word: "zebra",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994107/vocab/179_zebra.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=179&language=US",
+  },
+  {
+    id: 181,
+    word: "chicken",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994111/vocab/181_chicken.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=181&language=US",
+  },
+  {
+    id: 218,
+    word: "camel",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994120/vocab/218_camel.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=218&language=US",
+  },
+  {
+    id: 220,
+    word: "cheetah",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994122/vocab/220_cheetah.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=220&language=US",
+  },
+  {
+    id: 225,
+    word: "deer",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994126/vocab/225_deer.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=225&language=US",
+  },
+  {
+    id: 233,
+    word: "fox",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994143/vocab/233_fox.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=233&language=US",
+  },
+  {
+    id: 238,
+    word: "hamster",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994147/vocab/238_hamster.png",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=238&language=US",
+  },
+  {
+    id: 241,
+    word: "kangaroo",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994150/vocab/241_kangaroo.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=241&language=US",
+  },
+  {
+    id: 248,
+    word: "panda",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994156/vocab/248_panda.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=248&language=US",
+  },
+  {
+    id: 252,
+    word: "rat",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994163/vocab/252_rat.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=252&language=US",
+  },
+  {
+    id: 256,
+    word: "sheep",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994168/vocab/256_sheep.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=256&language=US",
+  },
+  {
+    id: 263,
+    word: "wolf",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994175/vocab/263_wolf.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=263&language=US",
+  },
+  {
+    id: 6520,
+    word: "antelope",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994467/vocab/6520_antelope.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=6520&language=US",
+  },
+  {
+    id: 18418,
+    word: "buffalo",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684994898/vocab/18418_buffalo.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=18418&language=US",
+  },
+  {
+    id: 24402,
+    word: "chihuahua",
+    imageUrl:
+      "https://res.cloudinary.com/techleadvn/image/upload/v1684995111/vocab/24402_chihuahua.jpg",
+    soundUS:
+      "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=24402&language=US",
+  },
+];
+app.get("/api/listen5", (req, res) => {
+  res.json(listen5);
+});
 // Lắng nghe các yêu cầu tới cổng đã chọn
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);

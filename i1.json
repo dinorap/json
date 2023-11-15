@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "word": "ant",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993766/vocab/1_ant.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=1&language=US"
+  },
+  {
+    "id": 4,
+    "word": "bear",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993772/vocab/4_bear.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=4&language=US"
+  },
+  {
+    "id": 9,
+    "word": "cat",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993785/vocab/9_cat.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=9&language=US"
+  },
+  {
+    "id": 10,
+    "word": "cow",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993787/vocab/10_cow.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=10&language=US"
+  },
+  {
+    "id": 13,
+    "word": "dog",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993792/vocab/13_dog.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=13&language=US"
+  },
+  {
+    "id": 25,
+    "word": "lion",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993824/vocab/25_lion.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=25&language=US"
+  },
+  {
+    "id": 43,
+    "word": "worm",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684993868/vocab/43_worm.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=43&language=US"
+  },
+  {
+    "id": 172,
+    "word": "horse",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994099/vocab/172_horse.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=172&language=US"
+  },
+  {
+    "id": 173,
+    "word": "bunny",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994100/vocab/173_bunny.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=173&language=US"
+  },
+  {
+    "id": 175,
+    "word": "pig",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994102/vocab/175_pig.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=175&language=US"
+  },
+  {
+    "id": 177,
+    "word": "elephant",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994104/vocab/177_elephant.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=177&language=US"
+  },
+  {
+    "id": 178,
+    "word": "giraffe",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994106/vocab/178_giraffe.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=178&language=US"
+  },
+  {
+    "id": 179,
+    "word": "zebra",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994107/vocab/179_zebra.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=179&language=US"
+  },
+  {
+    "id": 181,
+    "word": "chicken",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994111/vocab/181_chicken.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=181&language=US"
+  },
+  {
+    "id": 218,
+    "word": "camel",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994120/vocab/218_camel.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=218&language=US"
+  },
+  {
+    "id": 220,
+    "word": "cheetah",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994122/vocab/220_cheetah.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=220&language=US"
+  },
+  {
+    "id": 225,
+    "word": "deer",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994126/vocab/225_deer.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=225&language=US"
+  },
+  {
+    "id": 233,
+    "word": "fox",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994143/vocab/233_fox.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=233&language=US"
+  },
+  {
+    "id": 238,
+    "word": "hamster",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994147/vocab/238_hamster.png",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=238&language=US"
+  },
+  {
+    "id": 241,
+    "word": "kangaroo",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994150/vocab/241_kangaroo.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=241&language=US"
+  },
+  {
+    "id": 248,
+    "word": "panda",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994156/vocab/248_panda.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=248&language=US"
+  },
+  {
+    "id": 252,
+    "word": "rat",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994163/vocab/252_rat.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=252&language=US"
+  },
+  {
+    "id": 256,
+    "word": "sheep",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994168/vocab/256_sheep.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=256&language=US"
+  },
+  {
+    "id": 263,
+    "word": "wolf",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994175/vocab/263_wolf.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=263&language=US"
+  },
+  {
+    "id": 6520,
+    "word": "antelope",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994467/vocab/6520_antelope.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=6520&language=US"
+  },
+  {
+    "id": 18418,
+    "word": "buffalo",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684994898/vocab/18418_buffalo.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=18418&language=US"
+  },
+  {
+    "id": 24402,
+    "word": "chihuahua",
+    "imageUrl": "https://res.cloudinary.com/techleadvn/image/upload/v1684995111/vocab/24402_chihuahua.jpg",
+    "soundUS": "https://vocab-v2.techlead.vn/api/v2/words/sounds/pronounce?id=24402&language=US"
+  }
+]
