@@ -7,7 +7,6 @@ const jsonData = [
     name: " Grammar",
     category_id: 3,
   },
-  ,
   {
     id: 20,
     name: "34 Easy Questions",
