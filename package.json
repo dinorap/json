@@ -1,10 +1,11 @@
 {
   "name": "pack",
   "version": "1.0.0",
-  "description": "",
+  "description": "chạy lệnh node server.js trong terminal và vào link\r http://localhost:3000/api/listtopic để lấy dữ liệu của ListTopic\r http://localhost:3000/api/topic1 để lấy dữ liệu của Topic1\r http://localhost:3000/api/topic2 để lấy dữ liệu của Topic2",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
